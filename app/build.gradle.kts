@@ -45,8 +45,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.3")
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
-    implementation("androidx.media3:media3-common:1.3.1")
-    implementation("androidx.media3:media3-transformer:1.3.1")
+    implementation("androidx.media3:media3-common:1.5.1")
+    implementation("androidx.media3:media3-transformer:1.5.1")
 
     testImplementation("junit:junit:4.13.2")
 }
