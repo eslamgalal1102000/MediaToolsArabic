@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Media Tools Arabic</string>
+    <string name="app_name">اسلام جلال</string>
     <string name="tab_download">تنزيل الوسائط</string>
     <string name="tab_convert">فيديو إلى صوت</string>
     <string name="tab_compress">ضغط الصوت</string>
