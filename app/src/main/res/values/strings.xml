@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media Tools Arabic</string>
+    <string name="tab_download">تنزيل الوسائط</string>
+    <string name="tab_convert">فيديو إلى صوت</string>
+    <string name="tab_compress">ضغط الصوت</string>
+    <string name="tab_files">مدير الملفات</string>
+    <string name="tab_history">السجل</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="coming_soon">هذا القسم لم يُنفَّذ بعد، وسيُضاف في المرحلة القادمة.</string>
+
+    <string name="pick_file">اختيار ملف من الهاتف</string>
+    <string name="file_name">الاسم: %1$s</string>
+    <string name="file_size">الحجم الأصلي: %1$s</string>
+    <string name="file_duration">المدة: %1$s</string>
+    <string name="target_size">الحجم المستهدف</string>
+    <string name="custom_mb">حجم مخصص (MB)</string>
+    <string name="suggested_bitrate">معدل البت المقترح: %1$d kbps</string>
+    <string name="estimated_size">تقدير الحجم النهائي: %1$s</string>
+    <string name="mb_note">ملاحظة: 1 MB هنا = 1,000,000 بايت (وليس MiB).</string>
+    <string name="start">ابدأ واختر مكان الحفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="output_format_note">الصيغة الناتجة: M4A (AAC). صيغة MP3 لم تُضف بعد.</string>
+    <string name="quality_title">جودة الصوت</string>
+    <string name="quality_note">رفع معدل البت لا يعيد تفاصيل غير موجودة في الملف الأصلي.</string>
+
+    <string name="running_attempt">جارٍ الترميز — محاولة %1$d من %2$d بمعدل %3$d kbps</string>
+    <string name="running_convert">جارٍ استخراج الصوت وتحويله بمعدل %1$d kbps</string>
+    <string name="done_compress">تم الحفظ. الحجم الفعلي: %1$s (الهدف: %2$s)</string>
+    <string name="done_already_small">الملف أصلًا أصغر من الحجم المطلوب، لذلك لم يتم تغييره.</string>
+    <string name="done_convert">تم الحفظ. الحجم: %1$s</string>
+    <string name="fail_impossible">الحجم المطلوب غير ممكن ضمن حد جودة مقبول (الحد الأدنى %1$d kbps). اختر حجمًا أكبر.</string>
+    <string name="fail_generic">فشلت العملية: %1$s</string>
+    <string name="fail_no_duration">تعذر قراءة مدة الملف.</string>
+    <string name="fail_invalid_size">أدخل حجمًا صالحًا أكبر من صفر.</string>
+    <string name="fail_over_target">تعذر الوصول إلى الحجم المطلوب بعد %1$d محاولات.</string>
+    <string name="cancelled">تم الإلغاء.</string>
+</resources>
